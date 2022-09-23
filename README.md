@@ -8,5 +8,5 @@ To install, you must first `git clone` the repo. Once it is installed locally, y
 This can be used to manage an eCommerce website on the backend for item addition, update and deletion. 
 ## Created By:
 [GitHub link: chaoskills08](https://github.com/chaoskills08)
-  
+## Video walkthrough
 https://drive.google.com/file/d/1iwObjIS4t1x2fmYTFE9y1TCJ7HHr6aK5/view
